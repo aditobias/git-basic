@@ -1,2 +1,6 @@
 For second commit
 For pull request
+
+
+2. Your answer for What is the difference between add, commit, and push?
+The difference between the three commands are that the add is to stage a file that has changes, commit is to apply the changes to the local branch and push is to apply the changes from a certain branch to the remote repository.
